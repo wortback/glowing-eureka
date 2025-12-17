@@ -11,7 +11,7 @@
 
 # Relevant Papers
 
-## <font color="red">EXTRA RELEVANT</font> CardioCoLab: Collaborative Learning of Embryonic Heart Anatomy in Mixed Reality [PAPER](./Papers/EmbryoHeart.pdf) <a name="CardioCoLab"></a>
+## <font color="red">EXTRA RELEVANT</font> CardioCoLab: Collaborative Learning of Embryonic Heart Anatomy in Mixed Reality <a name="CardioCoLab"></a>
 
 **What is special?** 
 Developed a collaborative environment for multiple users to study an embrionic heart in Mixed Reality. Demonstrated that their product helps to learn (N=12).
@@ -47,7 +47,7 @@ Developed a collaborative environment for multiple users to study an embrionic h
 
 ---
 
-## Volume Rendering for Retinal Surgery [PAPER](./Papers/VolumeRenderingRetinalSurgery.pdf) <a name="Retinal"></a>
+## Volume Rendering for Retinal Surgery <a name="Retinal"></a>
 
 **What is special?** 
 Introduced a visualisation technique for retinal microsurgery from the intraoperative OCT (optical coherence tomography). As a sergeon manipulates the surface, they create a visualisation of retina and the instrument.
@@ -62,7 +62,7 @@ Introduced a visualisation technique for retinal microsurgery from the intraoper
 
 ---
 
-## Distance Visualizations for Vascular Structures in Desktop and VR [PAPER](./Papers/VascularStructuresVR.pdf) <a name="Distance"></a>
+## Distance Visualizations for Vascular Structures in Desktop and VR <a name="Distance"></a>
 
 **What is special?** 
 Summarised visualisation techniques (13 in total) for surface rendering of 3D vessel surfaces. Provide implementations of those techniques in Unity. Wanted to promote further research in this area.
@@ -75,7 +75,7 @@ Summarised visualisation techniques (13 in total) for surface rendering of 3D ve
 
 ---
 
-## An interaction metaphor for enhanced VR-based volume segmentation [PAPER](./Papers/ManualSegmentationVR.pdf) <a name="interaction"></a>
+## An interaction metaphor for enhanced VR-based volume segmentation <a name="interaction"></a>
 
 *Segmentation:* process of taking a 2D or 3D image of body and then 'segmenting' it into different meaningful regions (e.g., organs, bones, vessels, fat, etc.).
 
@@ -102,7 +102,7 @@ Introduced an interaction metaphor to do segmentation of medical images in VR. C
 
 ---
 
-## <font color="red">EXTRA RELEVANT</font> Learning Hand Anatomy with Sense of Embodiment [PAPER](./Papers/HandAnatomyVR.pdf) <a name="Learning"></a>
+## <font color="red">EXTRA RELEVANT</font> Learning Hand Anatomy with Sense of Embodiment <a name="Learning"></a>
 
 **What is special?** 
 Implemented a VR prototype for learning hand anatomy, where the user looks at their hands, sees them in motion and the system renders the anatomical structure of the hand accordingly. Tested with users with no medical background (N=7).
@@ -130,7 +130,7 @@ Implemented a VR prototype for learning hand anatomy, where the user looks at th
 
 ---
 
-## <font color="red">EXTRA RELEVANT</font> An Endoscope Interface for Immersive Virtual Reality [PAPER](./Papers/EndoscopeInterfaceVR.pdf) <a name="Endoscope"></a>
+## <font color="red">EXTRA RELEVANT</font> An Endoscope Interface for Immersive Virtual Reality<a name="Endoscope"></a>
 
 **What is special?** 
 Created a new endoscopic interface for HTC Vive. The controller was adapted to mimic an endoscope. Actually is pretty similar in the spirit to what we wanted to do with our simulator -- affordable environment that can be easily deployed in hospitals for training. 
@@ -147,7 +147,7 @@ Created a new endoscopic interface for HTC Vive. The controller was adapted to m
 
 --- 
 
-## Virtual reality platform for training and planning implantations of occluder devices in left atrial appendages [PAPER](./Papers/AtrialAppendagedVRPlatform.pdf) <a name="Virtual"></a>
+## Virtual reality platform for training and planning implantations of occluder devices in left atrial appendages<a name="Virtual"></a>
  
 **What is special?**
 Introduced a VR platform for patient-specific cardiac geometry inspection. Tested with clinical experts and researchers (N=5).
@@ -179,7 +179,7 @@ Introduced a VR platform for patient-specific cardiac geometry inspection. Teste
 
 ---
 
-## <font color="red">EXTRA RELEVANT</font> Learning Anatomy through Shared Virtual Reality [PAPER](./Papers/AnatomyThroughSharedVR.pdf) <a name="LearningAnatomy"></a>
+## <font color="red">EXTRA RELEVANT</font> Learning Anatomy through Shared Virtual Reality <a name="LearningAnatomy"></a>
 
 **What is special?**
 An app where students get tasks to put different organs together and then can check their performance. Supports a multiplayer mode to play together and under the supervision of a professional. User study with medical students (N=2) and professors (N=4).
